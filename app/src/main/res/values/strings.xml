@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HeadTails</string>
+
+    <string name="titulo">Elige y lanza!!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txView_arg1">Pulsa el botón para comenzar</string>
+    <string name="contHead">0</string>
+    <string name="contTail">0</string>
+
+    <string-array name="side_array">
+        <item>Cara</item>
+        <item>Cruz</item>
+    </string-array>
+
+
+</resources>
